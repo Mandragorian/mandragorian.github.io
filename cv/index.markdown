@@ -18,7 +18,7 @@ robots: noindex
 
 #### Education
 
-- **National Technical University of Athens** (2011-2016):
+- **National Technical University of Athens** (2011 - 2016):
 
 	Five year Master of Engineering degree in Electrical and Computer Engineering.
 	Specialized in computer science and cryptography.
