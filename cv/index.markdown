@@ -52,5 +52,6 @@ robots: noindex
 
 - Christos Papakiriakopoulos Award for Performance in Mathematics
 - Merged commits in crypto101 ebook, explaining the OTR protocol
+- TIME person of the year, 2006
 
 
