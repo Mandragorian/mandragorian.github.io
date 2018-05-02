@@ -28,7 +28,7 @@ robots: noindex
 #### Technical Skills
 
 - **Languages**:
-	Python --- C --- Ocaml --- C++ --- Java --- HTML/CSS/JS
+	Python --- C --- Ocaml --- C++ --- Rust --- Java --- HTML/CSS/JS
 - **Web**:
 	Django
 - **Editors/IDEs**:
