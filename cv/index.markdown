@@ -5,7 +5,7 @@ robots: noindex
 
 #### Work experience
 
-- **Arrikto Inc.** (January 2016 - present):
+- **Arrikto Inc.** (January 2017 - June 2018):
 
 
 	Working on the design and implementation of secure peer-to-peer file-sharing networks.
